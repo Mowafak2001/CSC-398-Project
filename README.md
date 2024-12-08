@@ -7,3 +7,9 @@ Expected Goals (×2): It shows the quality of scoring chances giving an idea abo
 Shots on Target (×1.5): Indicates the accuracy.
 Big Chances Missed (×-2): Penalty for missing significant opportunities which could hurt team outcomes.
 Goal Conversion % (+1): It shows the efficiency in converting opportunities into goals.
+
+
+This project was a collaborative effort by our entire team Mowafak Seidahmed, Massour ourobode, and Ricardo Carneiro. We worked together on all aspects of the project, from planning and development to testing and presentation preparation.
+
+
+linear regression is added in the colab code.
